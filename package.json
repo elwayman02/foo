@@ -45,6 +45,9 @@
     "loader.js": "^4.7.0",
     "qunit-dom": "^0.7.1"
   },
+  "devDependencies": {
+
+  },
   "engines": {
     "node": "6.* || 8.* || >= 10.*"
   }
