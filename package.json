@@ -48,6 +48,9 @@
   "devDependencies": {
 
   },
+  "bundledDependencies": [
+    "@ember/jquery"
+  ],
   "engines": {
     "node": "6.* || 8.* || >= 10.*"
   }
